@@ -1,0 +1,16 @@
+C:\Users\lyndo\Source\Repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.deps.json
+C:\Users\lyndo\Source\Repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.runtimeconfig.json
+C:\Users\lyndo\Source\Repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.runtimeconfig.dev.json
+C:\Users\lyndo\Source\Repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.dll
+C:\Users\lyndo\Source\Repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.pdb
+C:\Users\lyndo\Source\Repos\FSharpWormWar\FSharpWormWar\obj\Debug\netcoreapp2.0\FSharpWormWar.fsprojAssemblyReference.cache
+C:\Users\lyndo\Source\Repos\FSharpWormWar\FSharpWormWar\obj\Debug\netcoreapp2.0\FSharpWormWar.dll
+C:\Users\lyndo\Source\Repos\FSharpWormWar\FSharpWormWar\obj\Debug\netcoreapp2.0\FSharpWormWar.pdb
+C:\Users\Lyndon\source\repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.deps.json
+C:\Users\Lyndon\source\repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.runtimeconfig.json
+C:\Users\Lyndon\source\repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.runtimeconfig.dev.json
+C:\Users\Lyndon\source\repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.dll
+C:\Users\Lyndon\source\repos\FSharpWormWar\FSharpWormWar\bin\Debug\netcoreapp2.0\FSharpWormWar.pdb
+C:\Users\Lyndon\source\repos\FSharpWormWar\FSharpWormWar\obj\Debug\netcoreapp2.0\FSharpWormWar.fsprojAssemblyReference.cache
+C:\Users\Lyndon\source\repos\FSharpWormWar\FSharpWormWar\obj\Debug\netcoreapp2.0\FSharpWormWar.dll
+C:\Users\Lyndon\source\repos\FSharpWormWar\FSharpWormWar\obj\Debug\netcoreapp2.0\FSharpWormWar.pdb
